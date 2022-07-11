@@ -1,0 +1,152 @@
+INFO,Entereed data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']],2022-07-04 11:52:54,322
+INFO,Entereed data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']],2022-07-04 11:54:26,713
+INFO,Entereed data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']],2022-07-04 11:57:23,395
+INFO,Entereed data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']],2022-07-04 11:58:55,866
+INFO,Entereed data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']],2022-07-04 12:03:00,596
+INFO,Entereed data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']],2022-07-04 12:03:29,012
+INFO,Entereed data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']],2022-07-04 12:04:19,248
+INFO,Entereed data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']],2022-07-04 12:05:15,399
+INFO,Entereed data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']],2022-07-04 12:05:32,023
+INFO,Entereed data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']],2022-07-04 12:05:42,258
+INFO,Entereed data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']],2022-07-04 12:07:04,014
+INFO,Entereed data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']],2022-07-04 12:08:46,175
+INFO,Entereed data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']],2022-07-04 12:10:22,941
+INFO,The items are [1, 2, 3, 4],2022-07-04 12:10:22,941
+INFO,The items are (2, 3, 4, 5, 6),2022-07-04 12:10:22,941
+INFO,The items are (3, 4, 5, 6, 7),2022-07-04 12:10:22,941
+INFO,The items are {45, 4, 5, 23},2022-07-04 12:10:22,941
+INFO,The items are {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8},2022-07-04 12:10:22,941
+INFO,The items are ['ineuron', 'data science '],2022-07-04 12:10:22,941
+INFO,Entereed data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']],2022-07-04 12:11:24,934
+INFO,Entereed data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']],2022-07-04 12:11:58,263
+INFO,Entereed data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']],2022-07-04 12:12:29,597
+INFO,Entereed data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']],2022-07-04 12:14:14,468
+INFO,Entereed data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']],2022-07-04 12:14:27,350
+INFO,Entereed data is ([1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']),2022-07-04 12:14:57,461
+INFO,Entereed data is ([1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']),2022-07-04 12:15:39,522
+INFO,Entereed data is ([1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']),2022-07-04 12:16:10,848
+INFO,HI [1, 2, 3, 4],2022-07-04 12:16:10,848
+INFO,HI ['ineuron', 'data science '],2022-07-04 12:16:10,848
+INFO,Entereed data is ([1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']),2022-07-04 12:16:28,103
+INFO,Entereed data is ([1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']),2022-07-04 12:16:48,570
+INFO,Entereed data is ([1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']),2022-07-04 12:17:21,178
+INFO,Entereed data is ([1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']),2022-07-04 12:17:46,625
+INFO,Entereed data is ([1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']),2022-07-04 12:18:24,803
+INFO,Entereed data is ([1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']),2022-07-04 12:18:41,377
+INFO,Entereed data is ([1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']),2022-07-04 12:18:52,238
+INFO,Entereed data is ([1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']),2022-07-04 12:19:14,768
+INFO,Entereed data is ([1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']),2022-07-04 15:01:30,200
+INFO,Entereed data is ([1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']),2022-07-04 15:09:41,916
+INFO,Taken data is [1, 2, 3, 4],2022-07-04 15:09:41,916
+INFO,Entereed data is ([1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']),2022-07-04 15:18:08,901
+INFO,Taken data is [1, 2, 3, 4],2022-07-04 15:18:08,901
+INFO,Entereed data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']],2022-07-04 15:18:41,002
+INFO,Taken data is [1, 2, 3, 4],2022-07-04 15:18:41,002
+INFO,Entereed data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']],2022-07-04 15:20:11,143
+INFO,Taken data is [1, 2, 3, 4],2022-07-04 15:20:11,143
+INFO,Entereed data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']],2022-07-04 15:23:01,045
+INFO,Taken data is [1, 2, 3, 4],2022-07-04 15:23:01,046
+INFO,Taken data is (2, 3, 4, 5, 6),2022-07-04 15:23:01,046
+INFO,(2, 3, 4, 5, 6) is not a list,2022-07-04 15:23:01,046
+INFO,Taken data is (3, 4, 5, 6, 7),2022-07-04 15:23:01,046
+INFO,(3, 4, 5, 6, 7) is not a list,2022-07-04 15:23:01,046
+INFO,Taken data is {45, 4, 5, 23},2022-07-04 15:23:01,046
+INFO,{45, 4, 5, 23} is not a list,2022-07-04 15:23:01,046
+INFO,Taken data is {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8},2022-07-04 15:23:01,046
+INFO,{'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8} is not a list,2022-07-04 15:23:01,046
+INFO,Taken data is ['ineuron', 'data science '],2022-07-04 15:23:01,046
+INFO,Entereed data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']],2022-07-04 15:26:56,915
+INFO,Taken data is [1, 2, 3, 4],2022-07-04 15:26:56,915
+INFO,Entereed data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']],2022-07-04 15:27:16,652
+INFO,Taken data is [1, 2, 3, 4],2022-07-04 15:27:16,652
+INFO,Entereed data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']],2022-07-04 15:27:29,437
+INFO,Taken data is [1, 2, 3, 4],2022-07-04 15:27:29,438
+INFO,Entereed data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']],2022-07-04 15:27:46,763
+INFO,Taken data is [1, 2, 3, 4],2022-07-04 15:27:46,764
+INFO,Taken data is (2, 3, 4, 5, 6),2022-07-04 15:27:46,764
+INFO,(2, 3, 4, 5, 6) is not a list,2022-07-04 15:27:46,764
+INFO,Taken data is (3, 4, 5, 6, 7),2022-07-04 15:27:46,764
+INFO,(3, 4, 5, 6, 7) is not a list,2022-07-04 15:27:46,764
+INFO,Taken data is {45, 4, 5, 23},2022-07-04 15:27:46,764
+INFO,{45, 4, 5, 23} is not a list,2022-07-04 15:27:46,764
+INFO,Taken data is {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8},2022-07-04 15:27:46,764
+INFO,{'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8} is not a list,2022-07-04 15:27:46,764
+INFO,Taken data is ['ineuron', 'data science '],2022-07-04 15:27:46,764
+INFO,Entereed data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']],2022-07-04 15:28:24,498
+INFO,Taken data is [1, 2, 3, 4],2022-07-04 15:28:24,498
+INFO,Taken data is (2, 3, 4, 5, 6),2022-07-04 15:28:24,498
+INFO,Taken data is (3, 4, 5, 6, 7),2022-07-04 15:28:24,498
+INFO,Taken data is {45, 4, 5, 23},2022-07-04 15:28:24,498
+INFO,Taken data is {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8},2022-07-04 15:28:24,498
+INFO,Taken data is ['ineuron', 'data science '],2022-07-04 15:28:24,498
+INFO,Entereed data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']],2022-07-04 15:42:56,095
+INFO,Taken data is [1, 2, 3, 4],2022-07-04 15:42:56,095
+INFO,Taken data is (2, 3, 4, 5, 6),2022-07-04 15:42:56,095
+INFO,Taken data is (3, 4, 5, 6, 7),2022-07-04 15:42:56,095
+INFO,Taken data is {45, 4, 5, 23},2022-07-04 15:42:56,095
+INFO,Taken data is {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8},2022-07-04 15:42:56,095
+INFO,Taken data is ['ineuron', 'data science '],2022-07-04 15:42:56,096
+INFO,Entereed data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']],2022-07-04 15:43:01,998
+INFO,Taken data is [1, 2, 3, 4],2022-07-04 15:43:01,998
+INFO,Taken data is (2, 3, 4, 5, 6),2022-07-04 15:43:01,998
+INFO,Taken data is (3, 4, 5, 6, 7),2022-07-04 15:43:01,998
+INFO,Taken data is {45, 4, 5, 23},2022-07-04 15:43:01,998
+INFO,Taken data is {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8},2022-07-04 15:43:01,998
+INFO,Taken data is ['ineuron', 'data science '],2022-07-04 15:43:01,998
+INFO,Entereed data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']],2022-07-04 15:43:30,314
+INFO,Taken data is [1, 2, 3, 4],2022-07-04 15:43:30,314
+INFO,Taken data is (2, 3, 4, 5, 6),2022-07-04 15:43:30,314
+INFO,Taken data is (3, 4, 5, 6, 7),2022-07-04 15:43:30,314
+INFO,Taken data is {45, 4, 5, 23},2022-07-04 15:43:30,314
+INFO,Taken data is {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8},2022-07-04 15:43:30,314
+INFO,Taken data is ['ineuron', 'data science '],2022-07-04 15:43:30,314
+INFO,Entereed data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']],2022-07-04 15:43:54,784
+INFO,Taken data is [1, 2, 3, 4],2022-07-04 15:43:54,784
+INFO,Taken data is (2, 3, 4, 5, 6),2022-07-04 15:43:54,784
+INFO,Taken data is (3, 4, 5, 6, 7),2022-07-04 15:43:54,784
+INFO,Taken data is {45, 4, 5, 23},2022-07-04 15:43:54,784
+INFO,Taken data is {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8},2022-07-04 15:43:54,784
+INFO,Taken data is ['ineuron', 'data science '],2022-07-04 15:43:54,784
+INFO,Entereed data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']],2022-07-04 15:44:32,214
+INFO,Taken data is [1, 2, 3, 4],2022-07-04 15:44:32,216
+INFO,Taken data is (2, 3, 4, 5, 6),2022-07-04 15:44:32,216
+INFO,Taken data is (3, 4, 5, 6, 7),2022-07-04 15:44:32,216
+INFO,Taken data is {45, 4, 5, 23},2022-07-04 15:44:32,216
+INFO,Taken data is {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8},2022-07-04 15:44:32,216
+INFO,Taken data is ['ineuron', 'data science '],2022-07-04 15:44:32,216
+INFO,Entereed data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']],2022-07-04 15:48:38,404
+INFO,Taken data is [1, 2, 3, 4],2022-07-04 15:48:38,404
+INFO,Taken data is (2, 3, 4, 5, 6),2022-07-04 15:48:38,404
+INFO,Taken data is (3, 4, 5, 6, 7),2022-07-04 15:48:38,404
+INFO,Taken data is {45, 4, 5, 23},2022-07-04 15:48:38,404
+INFO,Taken data is {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8},2022-07-04 15:48:38,405
+INFO,Taken data is ['ineuron', 'data science '],2022-07-04 15:48:38,405
+INFO,Entereed data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']],2022-07-06 16:38:05,338
+INFO,Taken data is [1, 2, 3, 4],2022-07-06 16:38:05,338
+INFO,Taken data is (2, 3, 4, 5, 6),2022-07-06 16:38:05,338
+INFO,Taken data is (3, 4, 5, 6, 7),2022-07-06 16:38:05,338
+INFO,Taken data is {45, 4, 5, 23},2022-07-06 16:38:05,338
+INFO,Taken data is {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8},2022-07-06 16:38:05,338
+INFO,Taken data is ['ineuron', 'data science '],2022-07-06 16:38:05,338
+INFO,Entereed data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']],2022-07-06 16:43:46,706
+INFO,Taken data is [1, 2, 3, 4],2022-07-06 16:43:46,706
+INFO,Taken data is (2, 3, 4, 5, 6),2022-07-06 16:43:46,706
+INFO,Taken data is (3, 4, 5, 6, 7),2022-07-06 16:43:46,706
+INFO,Taken data is {45, 4, 5, 23},2022-07-06 16:43:46,706
+INFO,Taken data is {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8},2022-07-06 16:43:46,706
+INFO,Taken data is ['ineuron', 'data science '],2022-07-06 16:43:46,706
+INFO,Entereed data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']],2022-07-06 16:44:48,242
+INFO,Taken data is [1, 2, 3, 4],2022-07-06 16:44:48,242
+INFO,Taken data is (2, 3, 4, 5, 6),2022-07-06 16:44:48,242
+INFO,Taken data is (3, 4, 5, 6, 7),2022-07-06 16:44:48,242
+INFO,Taken data is {45, 4, 5, 23},2022-07-06 16:44:48,242
+INFO,Taken data is {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8},2022-07-06 16:44:48,242
+INFO,Taken data is ['ineuron', 'data science '],2022-07-06 16:44:48,242
+INFO,Entered text is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']],2022-07-06 20:52:48,134
+INFO,Entered text is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']],2022-07-06 22:18:37,015
+INFO,Entered text is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']],2022-07-07 14:35:17,637
+INFO,Entered text is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']],2022-07-07 15:23:10,575
+INFO,Entered text is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']],2022-07-07 15:24:26,826
+INFO,Entered text is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']],2022-07-07 15:25:44,088
+INFO,Entered text is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']],2022-07-07 15:27:23,460
+INFO,Entered text is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']],2022-07-07 15:32:09,817
